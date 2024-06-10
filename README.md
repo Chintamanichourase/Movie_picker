@@ -1,6 +1,6 @@
-# Retro Flix React App 🎬
+# Movie Picker React App 🎬
 
-Retro Flix is a simple React application that allows you to search for movies and add them to your watched list. You can also rate the movies you've watched and see statistics about your watched movies.
+Movie Picker is a simple React application that allows you to search for movies and add them to your watched list. You can also rate the movies you've watched and see statistics about your watched movies.
 
 ## Demo 📺
 
@@ -56,7 +56,7 @@ To get started with Retro Flix, follow these steps:
 
 ## Usage 🎯
 
-Once you have the Retro Flix application up and running, you can perform the following actions:
+Once you have the Movie Picker application up and running, you can perform the following actions:
 
 ### Search for Movies 🔍
 
@@ -82,7 +82,7 @@ Once you have the Retro Flix application up and running, you can perform the fol
 
 ## Contributing 🤝
 
-Contributions to Retro Flix are welcome! If you find a bug or have an idea for an enhancement, please open an issue or create a pull request on the [GitHub repository](https://github.com/aviralmehrotra/retro-flix).
+Contributions to Movie Picker are welcome! If you find a bug or have an idea for an enhancement, please open an issue or create a pull request on the [GitHub repository](https://github.com/aviralmehrotra/retro-flix).
 
 ## License 📄
 
