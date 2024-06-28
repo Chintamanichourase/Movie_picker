@@ -21,13 +21,13 @@ To get started with Retro Flix, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/yourusername/retro-flix.git
+   git clone https://github.com/yourusername/Movie_picker.git
    ```
 
 2. Change into the project directory:
 
    ```shell
-   cd retro-flix
+   cd Movie_picker
    ```
 
 3. Install the required dependencies:
@@ -44,7 +44,7 @@ To get started with Retro Flix, follow these steps:
    npm start
    ```
 
-6. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to use Retro Flix.
+6. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to use Movie Picker.
 
 ## Features 🌟
 
@@ -82,7 +82,7 @@ Once you have the Movie Picker application up and running, you can perform the f
 
 ## Contributing 🤝
 
-Contributions to Movie Picker are welcome! If you find a bug or have an idea for an enhancement, please open an issue or create a pull request on the [GitHub repository](https://github.com/aviralmehrotra/retro-flix).
+Contributions to Movie Picker are welcome! If you find a bug or have an idea for an enhancement, please open an issue or create a pull request on the [GitHub repository](https://github.com/Chintamanichourase/Movie_picker).
 
 ## License 📄
 
