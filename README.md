@@ -4,7 +4,7 @@ Movie Picker is a simple React application that allows you to search for movies 
 
 ## Demo 📺
 
-You can experience Retro Flix by visiting the [demo](https://retro-flix.vercel.app/).
+You can experience Movie Picker by visiting the [demo](https://retro-flix.vercel.app/).
 
 ## Table of Contents 📋
 
