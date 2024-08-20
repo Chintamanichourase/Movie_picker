@@ -122,7 +122,7 @@ function Logo() {
   return (
     <div className="logo">
       <span role="img">🎞️</span>
-      <h1>Retro Flix</h1>
+      <h1>Movie Picker</h1>
     </div>
   );
 }
